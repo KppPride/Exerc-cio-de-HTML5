@@ -1,10 +1,6 @@
 # Exerc-cio-de-HTML5
 <header> Buggati Veyron </header>
-index.html
-imagens/
-banner.jpg
-exemplo.jpg
- 
+
 
 
 
