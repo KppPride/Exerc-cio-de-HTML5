@@ -1,32 +1,15 @@
 # Exerc-cio-de-HTML5
-<header> Buggati Veyron </header>
-
-
-
-
-
-
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <title>Meu Site</title>
-</head>
-<body>
-
   <header>
     <h1>Bem-vindo ao site do Buggati Veyron</h1>
   </header>
-
-  <nav>
+    <nav>
     <ul>
       <li><a href="#sobre">Sobre</a></li>
       <li><a href="#noticias">Notícias</a></li>
       <li><a href="#contato">Contato</a></li>
     </ul>
   </nav>
-
-  <main>
+   <main>
     <section id="sobre">
       <h2>Sobre mim</h2>
       <p>Buggati Veyron, estudante de HTML5.</p>
@@ -47,6 +30,10 @@
   <footer>
     <p>&copy; 2025 Buggati Veyron</p>
   </footer>
+  
 
-</body>
-</html>
+
+
+
+
+
