@@ -11,18 +11,18 @@
   </nav>
    <main>
     <section id="sobre">
-      <h2>Sobre mim</h2>
+      <h2>Sobre o carro</h2>
       <p>Buggati Veyron, estudante de HTML5.</p>
     </section>
-
     <section id="noticias">
+<img src="<img width="960" height="639" alt="image" src="https://github.com/user-attachments/assets/268d825e-0544-448e-9e26-f504cbacec24">
       <article>
         <h3>Notícia 1</h3>
-        <p>Essa é a primeira notícia do site.</p>
+        <p>O Bugatti Veyron é a retirada do seu recorde de carro mais rápido do mundo pelo Guinness Book em abril de 2013, devido a irregularidades no teste.</p>
       </article>
       <article>
         <h3>Notícia 2</h3>
-        <p>Mais uma atualização importante para os visitantes.</p>
+        <p> O Bugatti Veyron foi a venda da sua última unidade, a "La Finale", em 2015, marcando o fim da produção de 450 exemplares ao longo de dez anos.</p>
       </article>
     </section>
   </main>
